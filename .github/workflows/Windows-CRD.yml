@@ -5,7 +5,7 @@ on:
     inputs:
       authcode:
         description: 'Enter CRD code'
-        required: true
+        required: false
       pincode:
         description: 'Six digit Pin'
         required: false
